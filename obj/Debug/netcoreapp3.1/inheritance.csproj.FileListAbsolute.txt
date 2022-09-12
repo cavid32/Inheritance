@@ -1,0 +1,13 @@
+D:\Code Academy\INHERIT\inheritance\inheritance\bin\Debug\netcoreapp3.1\inheritance.exe
+D:\Code Academy\INHERIT\inheritance\inheritance\bin\Debug\netcoreapp3.1\inheritance.deps.json
+D:\Code Academy\INHERIT\inheritance\inheritance\bin\Debug\netcoreapp3.1\inheritance.runtimeconfig.json
+D:\Code Academy\INHERIT\inheritance\inheritance\bin\Debug\netcoreapp3.1\inheritance.runtimeconfig.dev.json
+D:\Code Academy\INHERIT\inheritance\inheritance\bin\Debug\netcoreapp3.1\inheritance.dll
+D:\Code Academy\INHERIT\inheritance\inheritance\bin\Debug\netcoreapp3.1\inheritance.pdb
+D:\Code Academy\INHERIT\inheritance\inheritance\obj\Debug\netcoreapp3.1\inheritance.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code Academy\INHERIT\inheritance\inheritance\obj\Debug\netcoreapp3.1\inheritance.AssemblyInfoInputs.cache
+D:\Code Academy\INHERIT\inheritance\inheritance\obj\Debug\netcoreapp3.1\inheritance.AssemblyInfo.cs
+D:\Code Academy\INHERIT\inheritance\inheritance\obj\Debug\netcoreapp3.1\inheritance.csproj.CoreCompileInputs.cache
+D:\Code Academy\INHERIT\inheritance\inheritance\obj\Debug\netcoreapp3.1\inheritance.dll
+D:\Code Academy\INHERIT\inheritance\inheritance\obj\Debug\netcoreapp3.1\inheritance.pdb
+D:\Code Academy\INHERIT\inheritance\inheritance\obj\Debug\netcoreapp3.1\inheritance.genruntimeconfig.cache
